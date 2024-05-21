@@ -1,9 +1,9 @@
 
-<h1 align="left">Hi there 👋, I'm Anzil khaN</h1>
+<h1 align="left">Hi there 👋, I'm Jasir Tp</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 <br>
-<img align="left" src="https://komarev.com/ghpvc/?username=Anzil-Aufait&label=Profile%20views&color=259076&style=flat" alt="Anzil-Aufait" />
+<img align="left" src="https://komarev.com/ghpvc/?username=Anzil-Aufait&label=Profile%20views&color=259076&style=flat" alt="Jasir" />
 <br>
 
 <div align="left">
