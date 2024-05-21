@@ -29,8 +29,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=jasirauf&theme=gruvbox&margin-w=18&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jasirauf&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=jasirauf&card_width=417&theme=onedark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://app.daily.dev/AnzilkhaN">
 
 <!-- - 👨‍💻 All of my projects are available at [prasoonm.com](prasoonm.com)
 
