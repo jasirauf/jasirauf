@@ -1,70 +1,33 @@
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jasir</h1>
+<h3 align="center">React Developer at Aufaitux</h3>
+<!-- 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" > -->
 
-<h1 align="left">Hi there 👋, I'm Jasir Tp</h1>
-<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
+![](https://komarev.com/ghpvc/?username=jasirauf&color=orange&style=for-the-badge)
 
-<br>
-<img align="left" src="https://komarev.com/ghpvc/?username=Anzil-Aufait&label=Profile%20views&color=259076&style=flat" alt="Jasir" />
-<br>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/anzil-khan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://codepen.io/AnzilkhaN/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"/>
-  </a>
-  <a href="https://stackoverflow.com/users/5238602/anzil-khan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"/>
-  </a>
-</div>
-
-###
+[![trophy](https://github-profile-trophy.vercel.app/?username=jasirauf&theme=gruvbox&margin-w=18&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<!-- --> 
-[![Anzil Khan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anzil-aufait&custom_title=Anzil%20Khan's%20Contribuition%20Grapgh&hide_title=true&height=320&bg_color=282c34&color=e4bf7a&line=e06c6a&point=8eb573&area_color=abb2bf&area=true&hide_border=true&radius=8)](https://github.com/anzil-aufait/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jasirauf&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anzil-aufait&theme=onedark&margin-w=16&no-frame=true&column=8" alt="Anzil-Aufait" /></a> </p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzil-aufait&theme=onedark" alt="Anzil-Aufait" /></p> -->
+<!-- - 👨‍💻 All of my projects are available at [prasoonm.com](prasoonm.com)
 
-<!-- -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anzil-Aufait&card_width=417&theme=onedark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<a href="https://app.daily.dev/AnzilkhaN">
-<img src="https://api.daily.dev/devcards/a4d731a2a6644467b67fee069c159ef5.png?r=ij1" width="280" align="right" alt="Anzil khaN's Dev Card"/> 
-</a>
+- 📫 How to reach me **prasoon@aufaitux.com**
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anzil-aufait&theme=onedark&margin-w=18&no-frame=false" alt="Anzil-Aufait" /></a> </p> -->
+- 📄 Know about my experiences [you can refer my portfolio](you can refer my portfolio) -->
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzil-aufait&theme=onedark" alt="Anzil-Aufait" /></p> -->
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mohan_prasoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohan_prasoon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prasoon-mohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasoon-mohan" height="30" width="40" /></a>
+<a href="https://instagram.com/web.devofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="web.devofficial" height="30" width="40" /></a>
+</p>
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Anzil-Aufait&theme=onedark&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p> -->
 
-<!-- <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anzil-aufait&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Anzil Khan" />
-</p> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasirauf&theme=gruvbox&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Anzil-Aufait&show_icons=true&theme=gotham" alt="Anzil-Aufait" />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anzil-aufait&show_icons=true&locale=en" alt="Anzil-Aufait" /></p>-->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jasirauf&bg_color=202020&color=fabd2f&line=d65d0e&point=689d6a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
